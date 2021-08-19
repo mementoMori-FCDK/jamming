@@ -1,6 +1,6 @@
 REACT web application that queries Spotify.
 Jamming searches Spotify, creates a playlist and adds it to your Spotify account.
-Puplished at http://memojamming.surge.sh/
+Puplished at https://xenodochial-hopper-e402ba.netlify.app
 
 # Getting Started with Create React App
 
