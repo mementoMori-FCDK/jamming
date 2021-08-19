@@ -31,6 +31,7 @@ class Track extends React.Component {
                     <h3>{this.props.track.name}</h3>
                     <p>{this.props.track.artist} | {this.props.track.album}</p>
                 </div>
+                <img alt="album cover" src={this.props.track.imgURL}></img>
                     {this.renderAction()}
             </div>
         );
