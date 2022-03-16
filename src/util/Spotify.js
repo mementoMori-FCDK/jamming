@@ -1,8 +1,5 @@
 let accessToken;
-//const redirectURI = 'http://MeMoJamming.surge.sh';
-// const redirectURI = 'http://xenodochial-hopper-e402ba.netlify.app';
-const redirectURI = 'https://clever-dijkstra-0f9841.netlify.app';
-// const redirectURI = 'http://localhost:3000';
+const redirectURI = 'https://memo-jamming.netlify.app';
 const clientID = 'b872cdde33c543dd9bafdfffaf15db11';
 
 const Spotify = {
